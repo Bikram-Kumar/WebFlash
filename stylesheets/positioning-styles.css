@@ -1,0 +1,20 @@
+#main-container {
+    display: block;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+#btn {
+    display: block;
+    opacity: 0;
+    border: none;
+    position: absolute;
+    top: 38.5%;
+    left: 44%;
+    width: 9%;
+    height: 7.5%;
+}
+img {
+    display: block;
+}
